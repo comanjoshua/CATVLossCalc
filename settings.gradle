@@ -1,0 +1,3 @@
+
+rootProject.name = "CATVLossCalculator"
+include ':app'
